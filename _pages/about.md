@@ -41,7 +41,19 @@ My research interest includes computer vision and large language model systems. 
 </div>
 </div>
 
-- [NGM-RAG: Neural Graph Matching based Retrieval-Augmented Generation](https://github.com/Ziwen-Lii), Ziwen Li, et al., **ACL (CCF-A), Under Review**
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME (CCF-B)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[NGM-RAG: Neural Graph Matching based Retrieval-Augmented Generation](https://github.com/Ziwen-Lii) , Ziwen Li, et al., **ACL (CCF-A), Under Review**
+
+**Ziwen Li**, et al.
+
+[**Project**](https://github.com/Ziwen-Lii) <strong><span class='show_paper_citations' data='YOUR_GOOGLE_SCHOLAR_CITATION_KEY'></span></strong>
+- We study diffusion-based panorama generation and introduce geometry-aware constraints with reinforcement learning-based fine-tuning to reduce boundary discontinuity and distortion in 360° views, achieving competitive results on public panorama benchmarks.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2025* Provincial First Prize, National Undergraduate Mathematical Contest in Modeling (Higher Education Press Cup), China.
