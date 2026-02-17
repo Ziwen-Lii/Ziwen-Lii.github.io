@@ -29,7 +29,7 @@ My research interest includes computer vision and large language model systems. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME (CCF-B)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME (CCF-B)</div><img src='images/ICME.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GeoPano: Geometry-Aware Diffusion for Text to 360-degree Panoramas](https://github.com/Ziwen-Lii)
@@ -43,7 +43,7 @@ My research interest includes computer vision and large language model systems. 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME (CCF-B)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL (CCF-A)</div><img src='images/ACL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [NGM-RAG: Neural Graph Matching based Retrieval-Augmented Generation](https://github.com/Ziwen-Lii) , Ziwen Li, et al., **ACL (CCF-A), Under Review**
