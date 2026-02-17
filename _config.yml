@@ -7,8 +7,7 @@
 
 # Site Settings
 title                    : "Lorem ipsum"
-description              : "I am a sophomore majoring in software engineering at the School of Computer and Information Science at Southwest University.
-      My current research direction is Image Gen and embodied intelligence,specifically scene reconstruction based on a single image,and my supervisor is Xianfeng Han . "
+description              : ""
 repository               : "github.com/pique2233"
 google_scholar_stats_use_cdn : true
 
@@ -38,10 +37,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "pique2233"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/parismark0520/"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"

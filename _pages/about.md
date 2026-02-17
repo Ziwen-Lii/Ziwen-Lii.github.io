@@ -65,10 +65,6 @@ My research interest includes computer vision and large language model systems. 
 # 📖 Educations
 - *Sep. 2023 - Present*, B.Eng. in Software Engineering, Southwest University, Chongqing, China. (GPA: 3.67 / 5.0)
 
-# 💬 Invited Talks
-- *2026.02*, Panorama Generation & Geometry-Aware Diffusion (available upon request).
-- *2026.02*, Retrieval-Augmented Generation with Neural Graph Matching (available upon request).  \| [\[video\]](https://github.com/)
-
 # 💻 Internships
 - *Jun. 2024 - Sep. 2024*, [Chongqing CAS Automotive Software Innovation Center](https://github.com/), Chongqing, China.  
   Project Leader — Indoor autonomous navigation modeling with IsaacSim & ROS; Gazebo simulation and 2D SLAM with Gmapping to improve navigation accuracy in complex indoor environments.
