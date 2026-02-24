@@ -16,12 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
-I am an undergraduate student majoring in **Software Engineering** at the School of Computer and Information Science, **Southwest University** (Chongqing, China). My work centers on **generative vision** and **LLM systems**, with particular interests in **diffusion-based image generation**, **panorama/scene generation**, and **embodied intelligence**.
-
-Currently, I focus on geometry-aware generation for 360° panoramas and efficient retrieval-augmented generation for multi-hop reasoning. I enjoy building end-to-end research prototypes—from modeling and training to evaluation and deployment—aiming for reliable, scalable AI systems.
-
-My research interest includes computer vision and large language model systems. I have ongoing submissions to international AI conferences. You can also use google scholar badge <a href='https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a **third-year undergraduate student majoring in Software Engineering** at the **School of Computer and Information Science, Southwest University**. My research interests focus on **generative vision** and **large language models**, with particular emphasis on **diffusion-based image generation** and **panoramic/scene generation**. I am currently supervised by **Prof. Xianfeng Han** (<a href="https://scholar.google.com/citations?user=4FaCTFgAAAAJ&hl=en" target="_blank">Google Scholar</a>) and am actively seeking opportunities for **MPhil programs starting in Fall 2027**. Please feel free to contact me directly via email.
 
 # 🔥 News
 - *2026.02*: &nbsp;📝 **GeoPano: Geometry-Aware Diffusion for Text to 360-degree Panoramas** (first author) — under review at **ICME (CCF-B)**.
