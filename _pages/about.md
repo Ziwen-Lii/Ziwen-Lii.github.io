@@ -27,9 +27,9 @@ I am a **third-year undergraduate student majoring in Software Engineering** at 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME (CCF-B)</div><img src='images/ICME.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GeoPano: Geometry-Aware Diffusion for Text to 360-degree Panoramas](https://github.com/Ziwen-Lii)
+[GeoPano: Geometry-Aware Diffusion for Text to 360-degree Panoramas](https://github.com/Ziwen-Lii) **Under Review**
 
-**Ziwen Li**, et al.
+**Ziwen Li**, Xianfeng Han.
 
 [**Project**](https://github.com/Ziwen-Lii) <strong><span class='show_paper_citations' data='YOUR_GOOGLE_SCHOLAR_CITATION_KEY'></span></strong>
 - We study diffusion-based panorama generation and introduce geometry-aware constraints with reinforcement learning-based fine-tuning to reduce boundary discontinuity and distortion in 360° views, achieving competitive results on public panorama benchmarks.
@@ -41,9 +41,9 @@ I am a **third-year undergraduate student majoring in Software Engineering** at 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL (CCF-A)</div><img src='images/ACL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[NGM-RAG: Neural Graph Matching based Retrieval-Augmented Generation](https://github.com/Ziwen-Lii) , Ziwen Li, et al., **ACL (CCF-A), Under Review**
+[NGM-RAG: Neural Graph Matching based Retrieval-Augmented Generation](https://github.com/Ziwen-Lii) **Under Review**
 
-**Ziwen Li**, et al.
+Guo Chen, **Ziwen Li**, Maolin Zheng, Qi Cao, Junjie Huang, Tao Jia.
 
 [**Project**](https://github.com/Ziwen-Lii) <strong><span class='show_paper_citations' data='YOUR_GOOGLE_SCHOLAR_CITATION_KEY'></span></strong>
 - We study diffusion-based panorama generation and introduce geometry-aware constraints with reinforcement learning-based fine-tuning to reduce boundary discontinuity and distortion in 360° views, achieving competitive results on public panorama benchmarks.
