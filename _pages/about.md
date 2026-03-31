@@ -21,11 +21,11 @@ I am a **third-year undergraduate student majoring in Software Engineering** at 
 **I am currently working as a research intern at The Chinese University of Hong Kong, Shenzhen.**
 # 🔥 News
 - *2026.02*: &nbsp;📝 **GeoPano: Geometry-Aware Diffusion for Text to 360-degree Panoramas** (first author) — under review at **ACM MM (CCF-A)**.
-- *2026.02*: &nbsp;📝 **NGM-RAG: Neural Graph Matching based Retrieval-Augmented Generation** (co-first author) — under review at **ESWA (JCR Q1)**.
+- *2026.02*: &nbsp;📝 **NGM-RAG: Neural Graph Matching based Retrieval-Augmented Generation** (co-second author) — under review at **ESWA (JCR Q1)**.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM (CCF-A)</div><img src='images/ICME.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM (CCF-A)</div><img src='images/ACM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GeoPano: Geometry-Aware Diffusion for Text to 360-degree Panoramas](https://github.com/Ziwen-Lii) **Under Review**
