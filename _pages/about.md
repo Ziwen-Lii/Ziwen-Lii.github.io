@@ -30,7 +30,7 @@ I am a **third-year undergraduate student majoring in Software Engineering** at 
 
 [GeoPano: Geometry-Aware Diffusion for Text to 360-degree Panoramas](https://github.com/Ziwen-Lii) **Under Review**
 
-**Ziwen Li**, Xianfeng Han.
+**Ziwen Li**, Xueyi Zhang, Chengwei Zhang, Xian-Feng Han, Jinlin Guo .
 
 [**Project**](https://github.com/Ziwen-Lii) <strong><span class='show_paper_citations' data='YOUR_GOOGLE_SCHOLAR_CITATION_KEY'></span></strong>
 - We study diffusion-based panorama generation and introduce geometry-aware constraints with reinforcement learning-based fine-tuning to reduce boundary discontinuity and distortion in 360° views, achieving competitive results on public panorama benchmarks.
