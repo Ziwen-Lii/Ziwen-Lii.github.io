@@ -22,7 +22,7 @@ I am a **third-year undergraduate student majoring in Software Engineering** at 
 # 🔥 News
 - *2026.02*: &nbsp;📝 **GeoPano: Geometry-Aware Diffusion for Text to 360-degree Panoramas** (first author) — under review at **ACM MM (CCF-A)**.
 - *2026.02*: &nbsp;📝 **NGM-RAG: Neural Graph Matching based Retrieval-Augmented Generation** (co-second author) — under review at **ESWA (JCR Q1)**.
-
+- *2026.02*: &nbsp;📝 **When Retrieval is Not Enough: Uncertainty-Driven Attacks to Retrieval-Augmented Generation System** (co-author) — under review at **CCS (CCF-A)**.
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM (CCF-A)</div><img src='images/ACM.png' alt="sym" width="100%"></div></div>
@@ -49,6 +49,19 @@ Guo Chen, **Ziwen Li**, Maolin Zheng, Qi Cao, Junjie Huang, Tao Jia.
 
 [**Project**](https://github.com/Ziwen-Lii) <strong><span class='show_paper_citations' data='YOUR_GOOGLE_SCHOLAR_CITATION_KEY'></span></strong>
 - We study diffusion-based panorama generation and introduce geometry-aware constraints with reinforcement learning-based fine-tuning to reduce boundary discontinuity and distortion in 360° views, achieving competitive results on public panorama benchmarks.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS (CCF-A)</div><img src='images/CCS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[When Retrieval is Not Enough: Uncertainty-Driven Attacks to Retrieval-Augmented Generation System](https://github.com/Ziwen-Lii) **Under Review**
+
+Guo Chen, Junjie Huang, Yulei Long, Zixuan Huang, Yilan Huang, **Ziwen Li**, Qi Cao, Hao Gao, Huawei Shen.
+
+[**Project**](https://github.com/Ziwen-Lii) <strong><span class='show_paper_citations' data='YOUR_GOOGLE_SCHOLAR_CITATION_KEY'></span></strong>
+- We reveal that hallucination in RAG is an inherent result of decision-making under epistemic uncertainty, and propose PhantomRAG — a lightweight poisoning attack that subtly steers model outputs by injecting benign-looking documents to manipulate uncertainty resolution, even when retrieval remains semantically correct.
 </div>
 </div>
 
