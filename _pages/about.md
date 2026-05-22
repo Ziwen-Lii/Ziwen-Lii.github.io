@@ -22,7 +22,9 @@ I am a **third-year undergraduate student majoring in Software Engineering** at 
 # 🔥 News
 - *2026.02*: &nbsp;📝 **GeoPano: Geometry-Aware Diffusion for Text to 360-degree Panoramas** (first author) — under review at **ACM MM (CCF-A)**.
 - *2026.02*: &nbsp;📝 **NGM-RAG: Neural Graph Matching based Retrieval-Augmented Generation** (co-second author) — under review at **ESWA (JCR Q1)**.
-- *2026.02*: &nbsp;📝 **When Retrieval is Not Enough: Uncertainty-Driven Attacks to Retrieval-Augmented Generation System** (co-author) — under review at **CCS (CCF-A)**.
+- *2026.05*: &nbsp;📝 **When Extremists Enter LLM Societies: Investigating Extreme Behavior in Multi-Agent Systems** (co-author) — under review at **EMNLP (CCF-A)**.
+- *2026.04*: &nbsp;📝 **When Retrieval is Not Enough: Uncertainty-Driven Attacks to Retrieval-Augmented Generation System** (co-author) — under review at **CCS (CCF-A)**.
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM (CCF-A)</div><img src='images/ACM.png' alt="sym" width="100%"></div></div>
@@ -65,7 +67,22 @@ Guo Chen, Junjie Huang, Yulei Long, Zixuan Huang, Yilan Huang, **Ziwen Li**, Qi 
 </div>
 </div>
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP (CCF-A)</div><img src='images/EMNLP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[When Extremists Enter LLM Societies: Investigating Extreme Behavior in Multi-Agent Systems](https://github.com/Ziwen-Lii) **Under Review**
+
+Guo Chen, **Ziwen Li**
+
+[**Project**](https://github.com/Ziwen-Lii) <strong><span class='show_paper_citations' data='YOUR_GOOGLE_SCHOLAR_CITATION_KEY'></span></strong>
+- We show that even a small number of extremist agents can disproportionately distort LLM-based multi-agent societies, and propose EXAM to systematically inject, control, and evaluate such tail-driven effects across diverse social simulation scenarios.
+</div>
+</div>
+
 # 🎖 Honors and Awards
+- *2026* Provincial-Level Project, Chongqing Municipal Undergraduate Innovation and Entrepreneurship Training Program, China.
 - *2025* Provincial First Prize, National Undergraduate Mathematical Contest in Modeling (Higher Education Press Cup), China.
 - *2025* Honorable Mention (H Award), Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM), International.
 - *2025* Finalist (F Award), Certified Cup International Mathematical Modeling Competition, China.
