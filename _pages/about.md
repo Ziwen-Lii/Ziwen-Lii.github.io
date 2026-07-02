@@ -26,7 +26,7 @@ I am a **third-year undergraduate student majoring in Software Engineering** at 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WISA (CCF-C)</div><img src='images/ACL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[NGM-RAG: Neural Graph Matching based Retrieval-Augmented Generation](https://github.com/Ziwen-Lii) **Under Review**
+[NGM-RAG: Neural Graph Matching based Retrieval-Augmented Generation](https://github.com/Ziwen-Lii) 
 
 Guo Chen, **Ziwen Li**, Maolin Zheng, Qi Cao, Junjie Huang, Tao Jia.
 
