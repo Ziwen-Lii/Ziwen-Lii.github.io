@@ -31,7 +31,7 @@ I am a **third-year undergraduate student majoring in Software Engineering** at 
 Guo Chen, **Ziwen Li**, Maolin Zheng, Qi Cao, Junjie Huang, Tao Jia.
 
 [**Project**](https://github.com/Ziwen-Lii) <strong><span class='show_paper_citations' data='YOUR_GOOGLE_SCHOLAR_CITATION_KEY'></span></strong>
-- We propose NGM-RAG, a unified framework that integrates graph construction, graph matching, and answer generation. NGM-RAG combines direct matching, textual similarity, and graph neural networks, and employs adaptive weighting to identify key nodes and relations. It outperforms NaiveRAG, GraphRAG, LightRAG, and PathRAG on multi-hop question answering and long-context summarization tasks, while reducing graph retrieval and inference overhead.
+- We propose NGM-RAG, a unified graph-based RAG framework that adaptively identifies key nodes and relations. It outperforms existing RAG methods on multi-hop QA and long-context summarization with lower retrieval and inference costs.
 </div>
 </div>
 
