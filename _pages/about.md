@@ -31,6 +31,7 @@ I am a **third-year undergraduate student majoring in Software Engineering** at 
 Guo Chen, **Ziwen Li**, Maolin Zheng, Qi Cao, Junjie Huang, Tao Jia.
 
 # 🎖 Honors and Awards
+- *2026* National-Level Competition, Chinese Collegiate Computing Design Competition, China.
 - *2026* Provincial-Level Project, Chongqing Municipal Undergraduate Innovation and Entrepreneurship Training Program, China.
 - *2025* Provincial First Prize, National Undergraduate Mathematical Contest in Modeling (Higher Education Press Cup), China.
 - *2025* Honorable Mention (H Award), Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM), International.
