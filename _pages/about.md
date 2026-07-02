@@ -20,7 +20,7 @@ I am a **third-year undergraduate student majoring in Software Engineering** at 
 
 **I am currently working as a research intern at The Chinese University of Hong Kong, Shenzhen.**
 # 🔥 News
-- *2026.07*: &nbsp;📝 **NGM-RAG: Neural Graph Matching based Retrieval-Augmented Generation** (co-second author) — under review at **WISA (CCF-C)**.
+- *2026.07*: &nbsp;📝 **NGM-RAG: Neural Graph Matching based Retrieval-Augmented Generation** (co-second author) — **WISA (CCF-C)**.
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WISA (CCF-C)</div><img src='images/ACL.png' alt="sym" width="100%"></div></div>
