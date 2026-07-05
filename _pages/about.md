@@ -21,6 +21,7 @@ I am a **third-year undergraduate student majoring in Software Engineering** at 
 **I am currently working as a research intern at The Chinese University of Hong Kong, Shenzhen.**
 # 🔥 News
 - *2026.07*: &nbsp;📝 **NGM-RAG: Neural Graph Matching based Retrieval-Augmented Generation** (co-second author) — **WISA (CCF-C)**.
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WISA (CCF-C)</div><img src='images/ACL.png' alt="sym" width="100%"></div></div>
@@ -35,6 +36,26 @@ Guo Chen, **Ziwen Li**, Maolin Zheng, Qi Cao, Junjie Huang, Tao Jia.
 </div>
 </div>
 
+
+# 📄 Manuscripts Under Review
+
+- **GeoPano: Geometry-Aware Diffusion for Text to 360-Degree Panoramas**  
+  *ACM MM 2026 (Under Review).*
+
+- **When Extremists Enter LLM Societies: Investigating Extreme Behavior in Multi-Agent Systems**  
+  *EMNLP 2026 (Under Review).*
+
+- **When Retrieval is Not Enough: Uncertainty-Driven Attacks to Retrieval-Augmented Generation Systems**  
+  *ACM CCS 2026 (Under Review).*
+
+- **Agent Unlearning**  
+  *AAAI 2027 (Under Review).*
+
+- **CapClaw**  
+  *AAAI 2027 (Under Review).*
+
+- **FORESTBENCH**  
+  *KDD 2027 (Under Review).*
 
 
 # 🎖 Honors and Awards
