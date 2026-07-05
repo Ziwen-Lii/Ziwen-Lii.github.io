@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Ziwen Li"
 description              : ""
-repository               : "github.com/pique2233"
+repository               : "Ziwen-Lii/Ziwen-Lii.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,24 +23,24 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ziwen Li"
   avatar           : "images/my.jpg"
-  bio              : "Southwest University"
-  location         : "Chongqing China, China"
+  bio              : "Software Engineering, Southwest University"
+  location         : "Chongqing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.jp/citations?user=ub_ezlEAAAAJ&hl=ja"
   email            : "pique0202@email.swu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              : "ziwen-lii.github.io"
+  uri              : "https://ziwenli.cn"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/pique2233"
+  github           : "Ziwen-Lii"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/parismark0520/"
+  instagram        : "parismark0520"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"

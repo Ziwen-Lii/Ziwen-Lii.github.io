@@ -71,6 +71,7 @@
 .profile_box{
   @include breakpoint($large) {
     display: block;
+    padding: 1em 0.85em 1.1em 0;
   }
   display: flex;
   justify-content: flex-start;
@@ -94,11 +95,12 @@
   img {
     max-width: 175px;
     min-width: 75px;
-    border-radius: 50%;
+    border-radius: 18px;
+    filter: saturate(0.92) contrast(1.02);
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      padding: 0;
+      border: 1px solid rgba(24, 39, 42, 0.14);
     }
   }
 }
@@ -121,10 +123,11 @@
 
 .author__name {
   margin: 0;
+  color: #142527;
 
   @include breakpoint($large) {
     margin-top: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 6px;
   }
 }
 
@@ -138,10 +141,11 @@
 
 .author__bio {
   margin: 0;
+  color: #667578;
 
   @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin-top: 6px;
+    margin-bottom: 18px;
   }
 }
 
@@ -243,12 +247,13 @@
     padding-right: 5px;
     padding-top: 2px;
     padding-bottom: 2px;
-    color: inherit;
+    color: #263436;
     font-size: $type-size-5;
     text-decoration: none;
 
     &:hover {
-      text-decoration: underline;
+      color: #0b5563;
+      text-decoration: none;
     }
   }
 }
