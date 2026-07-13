@@ -53,7 +53,7 @@ I am currently supervised by **Prof. Xianfeng Han** (<a href="https://scholar.go
 Guo Chen, **Ziwen Li**, Maolin Zheng, Qi Cao, Junjie Huang, Tao Jia.
 
 <div class="paper-links">
-  <a href="https://github.com/Ziwen-Lii">Project</a>
+  <a href="/pdf/ACL.pdf">Project</a>
   <strong><span class="show_paper_citations" data="YOUR_GOOGLE_SCHOLAR_CITATION_KEY"></span></strong>
 </div>
 
