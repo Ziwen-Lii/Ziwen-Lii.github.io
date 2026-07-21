@@ -94,7 +94,6 @@
 
       document.documentElement.lang = chinese ? "zh-CN" : "en";
       document.body.setAttribute("data-language", language);
-      toggle.textContent = chinese ? "EN" : "中文";
       toggle.setAttribute("aria-pressed", chinese ? "true" : "false");
       toggle.setAttribute("aria-label", chinese ? "Switch to English" : "切换至中文");
       toggle.title = chinese ? "Switch to English" : "切换至中文";
