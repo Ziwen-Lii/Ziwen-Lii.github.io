@@ -327,8 +327,19 @@ h1:before, .anchor:before {
 
 .experience-item {
     display: grid;
-    grid-template-columns: minmax(0, 1fr) auto;
+    grid-template-columns: 2.7rem minmax(0, 1fr) auto;
+    align-items: center;
     gap: 1em;
+
+    &__logo {
+        width: 2.7rem;
+        height: 2.7rem;
+        object-fit: contain;
+    }
+
+    &__content {
+        min-width: 0;
+    }
 
     time {
         color: #0b5563;
@@ -370,12 +381,22 @@ h1:before, .anchor:before {
         }
     }
 
-    .experience-item,
     .timeline-list li {
         display: block;
     }
 
-    .experience-item time,
+    .experience-item {
+        grid-template-columns: 2.7rem minmax(0, 1fr);
+        column-gap: 0.8em;
+        row-gap: 0.35em;
+        align-items: start;
+
+        time {
+            grid-column: 2;
+            margin-bottom: 0.25em;
+        }
+    }
+
     .timeline-list span {
         display: block;
         margin-bottom: 0.25em;

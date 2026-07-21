@@ -127,21 +127,24 @@ We propose NGM-RAG, a unified graph-based RAG framework that adaptively identifi
 
 <div class="experience-list">
   <div class="experience-item">
-    <div>
+    <img class="experience-item__logo" src="/icon/SWU.png" alt="Southwest University logo">
+    <div class="experience-item__content">
       <strong>B.Eng. in Software Engineering</strong>
       <span>Southwest University, Chongqing, China · GPA: 3.67 / 5.0</span>
     </div>
     <time>Sep. 2023 - Present</time>
   </div>
   <div class="experience-item">
-    <div>
+    <img class="experience-item__logo" src="/icon/CUHKSZ.png" alt="The Chinese University of Hong Kong, Shenzhen logo">
+    <div class="experience-item__content">
       <strong>Research Intern</strong>
       <span>The Chinese University of Hong Kong, Shenzhen, Shenzhen, China</span>
     </div>
     <time>Mar. 2026 - Present</time>
   </div>
   <div class="experience-item">
-    <div>
+    <img class="experience-item__logo" src="/icon/ASIC.png" alt="Chongqing CAS Automotive Software Innovation Center logo">
+    <div class="experience-item__content">
       <strong>Project Leader</strong>
       <span>Chongqing CAS Automotive Software Innovation Center · Indoor autonomous navigation modeling with IsaacSim & ROS; Gazebo simulation and 2D SLAM with Gmapping.</span>
     </div>
