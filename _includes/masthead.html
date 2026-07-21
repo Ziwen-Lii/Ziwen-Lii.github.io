@@ -6,8 +6,9 @@
         <button aria-label="Toggle navigation"><div class="navicon"></div></button>
         <ul class="visible-links">
           {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item"><a href="{{ link.url | relative_url }}" data-i18n="{{ link.i18n }}">{{ link.title }}</a></li>
           {% endfor %}
+          <li class="masthead__menu-item masthead__menu-item--language"><a class="language-toggle" href="#language" role="button" aria-label="Switch to Chinese" aria-pressed="false">中文</a></li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>

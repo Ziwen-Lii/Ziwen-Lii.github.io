@@ -102,6 +102,44 @@ body {
     white-space: nowrap;
 }
 
+.language-toggle {
+    flex: 0 0 auto;
+    margin-left: 0.75em;
+    padding: 0.31em 0.64em;
+    border: 1px solid rgba(11, 85, 99, 0.28);
+    border-radius: 999px !important;
+    background: rgba(255, 255, 255, 0.84) !important;
+    color: #0b5563 !important;
+    font-family: inherit;
+    font-size: 0.78em;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    line-height: 1.2;
+    cursor: pointer;
+    transition: background-color 160ms ease, color 160ms ease, border-color 160ms ease, transform 160ms ease;
+
+    &:hover {
+        border-color: #0b5563;
+        background: #0b5563 !important;
+        color: #fff !important;
+        transform: translateY(-1px);
+    }
+
+    &:focus-visible {
+        outline: 2px solid rgba(184, 92, 56, 0.7);
+        outline-offset: 3px;
+    }
+}
+
+.greedy-nav .visible-links a.language-toggle {
+    position: static;
+    right: auto;
+    display: inline-block;
+    height: auto;
+    margin: 0 0 0 0.5rem;
+    padding: 0.31em 0.64em;
+}
+
 .page__content {
     color: #263436;
 
@@ -385,6 +423,12 @@ h1:before, .anchor:before {
         h1 {
             font-size: 1.5em;
         }
+    }
+
+    .language-toggle {
+        margin-left: 0.45em;
+        padding: 0.28em 0.5em;
+        font-size: 0.74em;
     }
 
     .timeline-list li {

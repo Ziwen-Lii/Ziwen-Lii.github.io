@@ -2,12 +2,16 @@
 main:
   - title: "About"
     url: "/#about-me"
+    i18n: "navAbout"
 
   - title: "Publications"
     url: "/#publications"
+    i18n: "navPublications"
 
   - title: "Honors"
     url: "/#honors"
+    i18n: "navHonors"
 
   - title: "Experience"
     url: "/#experience"
+    i18n: "navExperience"
