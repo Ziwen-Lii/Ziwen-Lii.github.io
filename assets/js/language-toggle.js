@@ -33,6 +33,7 @@
       reviewAaaiTwo: "AAAI 2027 · 审稿中",
       reviewKdd: "KDD 2027 · 审稿中",
       honorsTitle: "荣誉与奖项",
+      honorEmnlpReviewer: "<span>2027</span> EMNLP 2027 优秀审稿人。",
       honorOne: "<span>2026</span> 中国大学生计算机设计大赛国家级竞赛，中国。",
       honorTwo: "<span>2026</span> 重庆市大学生创新创业训练计划省级项目，中国。",
       honorThree: "<span>2025</span> 全国大学生数学建模竞赛省级一等奖，中国。",

@@ -114,6 +114,7 @@ Guo Chen, **Ziwen Li**, Maolin Zheng, Qi Cao, Junjie Huang, Tao Jia.
 <h1 data-i18n="honorsTitle">Honors and Awards</h1>
 
 <ul class="timeline-list">
+  <li data-i18n-html="honorEmnlpReviewer"><span>2027</span> EMNLP 2027 Outstanding Reviewer.</li>
   <li data-i18n-html="honorOne"><span>2026</span> National-Level Competition, Chinese Collegiate Computing Design Competition, China.</li>
   <li data-i18n-html="honorTwo"><span>2026</span> Provincial-Level Project, Chongqing Municipal Undergraduate Innovation and Entrepreneurship Training Program, China.</li>
   <li data-i18n-html="honorThree"><span>2025</span> Provincial First Prize, National Undergraduate Mathematical Contest in Modeling, China.</li>
