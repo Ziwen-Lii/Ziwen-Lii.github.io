@@ -72,20 +72,20 @@ Guo Chen, **Ziwen Li**, Maolin Zheng, Qi Cao, Junjie Huang, Tao Jia.
 <div class="manuscript-list">
   <div class="manuscript-item">
     <div>
-      <strong>GeoPano: Geometry-Aware Diffusion for Text to 360-Degree Panoramas</strong>
-      <span data-i18n="reviewAcm">ACM MM 2026 · Under Review</span>
+      <strong>Text-to-360-Degree Panoramas</strong>
+      <span data-i18n="reviewAcm">AAAI 2027 · Under Review</span>
     </div>
   </div>
   <div class="manuscript-item">
     <div>
       <strong>When Extremists Enter LLM Societies: Investigating Extreme Behavior in Multi-Agent Systems</strong>
-      <span data-i18n="reviewEmnlp">EMNLP 2026 · Under Review</span>
+      <span data-i18n="reviewEmnlp">AAAI 2027 · Under Review</span>
     </div>
   </div>
   <div class="manuscript-item">
     <div>
       <strong>When Retrieval is Not Enough: Uncertainty-Driven Attacks to Retrieval-Augmented Generation Systems</strong>
-      <span data-i18n="reviewCcs">ACM CCS 2026 · Under Review</span>
+      <span data-i18n="reviewCcs">USENIX Security Symposium 2026 · Under Review</span>
     </div>
   </div>
   <div class="manuscript-item">
@@ -96,13 +96,13 @@ Guo Chen, **Ziwen Li**, Maolin Zheng, Qi Cao, Junjie Huang, Tao Jia.
   </div>
   <div class="manuscript-item">
     <div>
-      <strong>CapClaw</strong>
+      <strong>OpenClaw Safety</strong>
       <span data-i18n="reviewAaaiTwo">AAAI 2027 · Under Review</span>
     </div>
   </div>
   <div class="manuscript-item">
     <div>
-      <strong>FORESTBENCH</strong>
+      <strong>Multi-Agent Bench</strong>
       <span data-i18n="reviewKdd">KDD 2027 · Under Review</span>
     </div>
   </div>
