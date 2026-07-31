@@ -78,19 +78,19 @@ Guo Chen, **Ziwen Li**, Maolin Zheng, Qi Cao, Junjie Huang, Tao Jia.
   </div>
   <div class="manuscript-item">
     <div>
-      <strong>When Extremists Enter LLM Societies: Investigating Extreme Behavior in Multi-Agent Systems</strong>
+      <strong>LLM Society Safety</strong>
       <span data-i18n="reviewEmnlp">AAAI 2027 · Under Review</span>
     </div>
   </div>
   <div class="manuscript-item">
     <div>
-      <strong>When Retrieval is Not Enough: Uncertainty-Driven Attacks to Retrieval-Augmented Generation Systems</strong>
+      <strong>RAG Security</strong>
       <span data-i18n="reviewCcs">USENIX Security Symposium 2026 · Under Review</span>
     </div>
   </div>
   <div class="manuscript-item">
     <div>
-      <strong>Agent Unlearning</strong>
+      <strong>Agent Behavior Control</strong>
       <span data-i18n="reviewAaaiOne">AAAI 2027 · Under Review</span>
     </div>
   </div>
