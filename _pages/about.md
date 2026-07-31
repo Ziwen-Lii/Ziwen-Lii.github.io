@@ -78,7 +78,7 @@ Guo Chen, **Ziwen Li**, Maolin Zheng, Qi Cao, Junjie Huang, Tao Jia.
   </div>
   <div class="manuscript-item">
     <div>
-      <strong>LLM Society Safety</strong>
+      <strong>大模型智能体的社会模拟</strong>
       <span data-i18n="reviewEmnlp">AAAI 2027 · Under Review</span>
     </div>
   </div>
@@ -90,7 +90,7 @@ Guo Chen, **Ziwen Li**, Maolin Zheng, Qi Cao, Junjie Huang, Tao Jia.
   </div>
   <div class="manuscript-item">
     <div>
-      <strong>Agent Behavior Control</strong>
+      <strong>Agent Unlearning</strong>
       <span data-i18n="reviewAaaiOne">AAAI 2027 · Under Review</span>
     </div>
   </div>
