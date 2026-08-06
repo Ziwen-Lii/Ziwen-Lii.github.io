@@ -48,6 +48,9 @@
       experienceIntern: "研究实习生",
       experienceCuhksz: "香港中文大学（深圳），中国深圳",
       experienceCuhkszDate: "2026 年 3 月 - 至今",
+      experienceLongRangeOrder: "工业智能体设计师",
+      experienceLongRangeOrderOrg: "LongRangeOrder",
+      experienceLongRangeOrderDate: "2026 年 8 月 - 至今",
       experienceLeader: "项目负责人",
       experienceAsic: "重庆中汽软件创新中心 · 基于 IsaacSim 与 ROS 的室内自主导航建模；使用 Gazebo 仿真与 Gmapping 实现 2D SLAM。",
       experienceAsicDate: "2024 年 6 月 - 2024 年 9 月"

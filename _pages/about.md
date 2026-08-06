@@ -146,6 +146,14 @@ Guo Chen, **Ziwen Li**, Maolin Zheng, Qi Cao, Junjie Huang, Tao Jia.
     <time data-i18n="experienceCuhkszDate">Mar. 2026 - Present</time>
   </div>
   <div class="experience-item">
+    <img class="experience-item__logo" src="/icon/LONG.png" alt="LongRangeOrder logo" width="44" height="44" loading="lazy">
+    <div class="experience-item__content">
+      <strong data-i18n="experienceLongRangeOrder">Industrial Agent Designer</strong>
+      <span data-i18n="experienceLongRangeOrderOrg">LongRangeOrder</span>
+    </div>
+    <time data-i18n="experienceLongRangeOrderDate">Aug. 2026 - Present</time>
+  </div>
+  <div class="experience-item">
     <img class="experience-item__logo" src="/icon/ASIC.png" alt="Chongqing CAS Automotive Software Innovation Center logo" width="44" height="44" loading="lazy">
     <div class="experience-item__content">
       <strong data-i18n="experienceLeader">Project Leader</strong>
