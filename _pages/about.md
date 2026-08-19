@@ -78,7 +78,7 @@ Guo Chen, **Ziwen Li**, Maolin Zheng, Qi Cao, Junjie Huang, Tao Jia.
   </div>
   <div class="manuscript-item">
     <div>
-      <strong>大模型智能体的社会模拟</strong>
+      <strong data-i18n="manuscriptSocialSimulation">Social Simulation with Large Language Model Agents</strong>
       <span data-i18n="reviewEmnlp">AAAI 2027 · Under Review</span>
     </div>
   </div>
@@ -114,8 +114,8 @@ Guo Chen, **Ziwen Li**, Maolin Zheng, Qi Cao, Junjie Huang, Tao Jia.
 <h1 data-i18n="honorsTitle">Honors and Awards</h1>
 
 <ul class="timeline-list">
-  <li data-i18n-html="honorEmnlpReviewer"><span>2026</span> EMNLP 2027 Outstanding Reviewer.</li>
-  <li data-i18n-html="honorOne"><span>2026</span> National-Level Competition, Chinese Collegiate Computing Design Competition, China.</li>
+  <li data-i18n-html="honorEmnlpReviewer"><span>2026</span> EMNLP 2027 Great Reviewer.</li>
+  <li data-i18n-html="honorOne"><span>2026</span> National First Prize, Chinese Collegiate Computing Design Competition, China.</li>
   <li data-i18n-html="honorTwo"><span>2026</span> Provincial-Level Project, Chongqing Municipal Undergraduate Innovation and Entrepreneurship Training Program, China.</li>
   <li data-i18n-html="honorThree"><span>2025</span> Provincial First Prize, National Undergraduate Mathematical Contest in Modeling, China.</li>
   <li data-i18n-html="honorFour"><span>2025</span> Honorable Mention, Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling, International.</li>
