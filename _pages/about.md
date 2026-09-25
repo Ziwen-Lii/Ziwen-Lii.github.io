@@ -73,31 +73,25 @@ Guo Chen, **Ziwen Li**, Maolin Zheng, Qi Cao, Junjie Huang, Tao Jia.
   <div class="manuscript-item">
     <div>
       <strong>Text-to-360-Degree Panoramas</strong>
-      <span data-i18n="reviewAcm">AAAI 2027 · Under Review</span>
+      <span data-i18n="reviewAcm">Phase 2</span>
     </div>
   </div>
   <div class="manuscript-item">
     <div>
       <strong data-i18n="manuscriptSocialSimulation">Social Simulation with Large Language Model Agents</strong>
-      <span data-i18n="reviewEmnlp">AAAI 2027 · Under Review</span>
-    </div>
-  </div>
-  <div class="manuscript-item">
-    <div>
-      <strong>RAG Security</strong>
-      <span data-i18n="reviewCcs">USENIX Security Symposium 2026 · Under Review</span>
+      <span data-i18n="reviewEmnlp">ICLR 2027 · Under Review</span>
     </div>
   </div>
   <div class="manuscript-item">
     <div>
       <strong>Agent Unlearning</strong>
-      <span data-i18n="reviewAaaiOne">AAAI 2027 · Under Review</span>
+      <span data-i18n="reviewAaaiOne">Phase 2</span>
     </div>
   </div>
   <div class="manuscript-item">
     <div>
       <strong>OpenClaw Safety</strong>
-      <span data-i18n="reviewAaaiTwo">AAAI 2027 · Under Review</span>
+      <span data-i18n="reviewAaaiTwo">WWW 2027 · Under Review</span>
     </div>
   </div>
   <div class="manuscript-item">

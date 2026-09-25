@@ -103,44 +103,61 @@ body {
 }
 
 .language-toggle {
-    display: grid;
-    width: 2.75rem;
-    height: 2.75rem;
-    place-items: center;
-    border: 0 !important;
-    border-radius: 4px !important;
-    background: transparent !important;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.15rem;
+    height: 2.15rem;
+    border: 1px solid rgba(11, 85, 99, 0.2) !important;
+    border-radius: 999px !important;
+    background: rgba(255, 255, 255, 0.85) !important;
     color: #0b5563 !important;
-    font-family: inherit;
-    font-size: 1.38rem;
-    line-height: 1;
     cursor: pointer;
     text-decoration: none !important;
-    transition: background-color 160ms ease, color 160ms ease;
+    box-shadow: 0 1px 3px rgba(11, 85, 99, 0.08);
+    transition: background-color 180ms ease, color 180ms ease, border-color 180ms ease, box-shadow 180ms ease, transform 180ms ease;
+
+    .lang-icon {
+        display: block;
+        width: 17px;
+        height: 17px;
+        stroke: currentColor;
+        transition: transform 180ms ease;
+    }
 
     &:hover {
-        background: rgba(11, 85, 99, 0.1) !important;
-        color: #064652 !important;
+        background: #0b5563 !important;
+        color: #ffffff !important;
+        border-color: #0b5563 !important;
+        box-shadow: 0 2px 8px rgba(11, 85, 99, 0.25);
+        transform: translateY(-1px);
+
+        .lang-icon {
+            transform: scale(1.08);
+        }
+    }
+
+    &:active {
+        transform: translateY(0) scale(0.95);
     }
 
     &:focus-visible {
         outline: 2px solid rgba(184, 92, 56, 0.7);
-        outline-offset: 3px;
+        outline-offset: 2px;
     }
 }
 
 .greedy-nav .visible-links a.language-toggle {
     position: static;
     right: auto;
-    display: grid;
-    height: 2.75rem;
-    margin: 0 0 0 0.35rem;
+    display: inline-flex;
+    width: 2.15rem;
+    height: 2.15rem;
+    margin: 0 0 0 0.5rem;
     padding: 0;
-    font-size: 1.38rem;
-    line-height: 1;
 
     &:before {
-        display: none;
+        display: none !important;
     }
 }
 
@@ -430,10 +447,14 @@ h1:before, .anchor:before {
     }
 
     .greedy-nav .visible-links a.language-toggle {
-        margin-left: 0.45em;
-        width: 2.5rem;
-        height: 2.5rem;
-        font-size: 1.25rem;
+        margin-left: 0.35rem;
+        width: 1.95rem;
+        height: 1.95rem;
+
+        .lang-icon {
+            width: 15px;
+            height: 15px;
+        }
     }
 
     .timeline-list li {
