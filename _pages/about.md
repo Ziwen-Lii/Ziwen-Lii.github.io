@@ -73,7 +73,7 @@ Guo Chen, **Ziwen Li**, Maolin Zheng, Qi Cao, Junjie Huang, Tao Jia.
   <div class="manuscript-item">
     <div>
       <strong>Text-to-360-Degree Panoramas</strong>
-      <span data-i18n="reviewAcm">Phase 2</span>
+      <span data-i18n="reviewAcm">AAAI Phase 2</span>
     </div>
   </div>
   <div class="manuscript-item">
@@ -85,7 +85,7 @@ Guo Chen, **Ziwen Li**, Maolin Zheng, Qi Cao, Junjie Huang, Tao Jia.
   <div class="manuscript-item">
     <div>
       <strong>Agent Unlearning</strong>
-      <span data-i18n="reviewAaaiOne">Phase 2</span>
+      <span data-i18n="reviewAaaiOne">AAAI Phase 2</span>
     </div>
   </div>
   <div class="manuscript-item">
