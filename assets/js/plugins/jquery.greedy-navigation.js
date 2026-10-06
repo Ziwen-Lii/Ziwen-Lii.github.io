@@ -52,6 +52,9 @@ function updateNav() {
   // Keep counter updated
   $btn.attr("count", breaks.length);
 
+  // The dropdown button may have appeared or disappeared during this update.
+  availableSpace = $nav.width() - titleWidth - ($btn.hasClass('hidden') ? 0 : $btn.outerWidth() + 30);
+
   // Recur if the visible list is still overflowing the nav
   if($vlinks.width() > availableSpace) {
     updateNav();
