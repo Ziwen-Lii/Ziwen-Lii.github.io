@@ -73,6 +73,10 @@ body {
         margin-left: auto;
     }
 
+    button:not(.hidden) ~ .visible-links {
+        margin-right: 3rem;
+    }
+
     .visible-links a:before {
         height: 2px;
         background: #b85c38;
@@ -430,6 +434,38 @@ h1:before, .anchor:before {
         color: #b85c38;
         font-weight: 700;
     }
+}
+
+.community-contributions__list {
+    margin: 0.9em 0 1.6em;
+    padding-left: 0;
+    list-style: none;
+
+    li {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 0.55em 1em;
+        padding: 0.82em 0;
+        border-bottom: 1px solid rgba(24, 39, 42, 0.12);
+    }
+}
+
+.community-contributions__project {
+    flex: 1 1 12rem;
+    min-width: 0;
+    font-weight: 700;
+}
+
+.community-contributions__stars {
+    display: block;
+    width: 68px;
+    height: 20px;
+}
+
+.community-contributions__proof {
+    font-size: 0.86em;
+    white-space: nowrap;
 }
 
 @include breakpoint(max-width $small) {

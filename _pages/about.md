@@ -156,3 +156,22 @@ Guo Chen, **Ziwen Li**, Maolin Zheng, Qi Cao, Junjie Huang, Tao Jia.
     <time data-i18n="experienceAsicDate">Jun. 2024 - Sep. 2024</time>
   </div>
 </div>
+
+<section class="home-section community-contributions" markdown="1">
+<h1 id="community-contributions" data-i18n="communityTitle">Community Contributions</h1>
+
+<p data-i18n="communityIntro">I actively contribute to the open-source community, including:</p>
+
+<ul class="community-contributions__list">
+  <li>
+    <a class="community-contributions__project" href="https://github.com/marimo-team/marimo" target="_blank" rel="noopener noreferrer">marimo</a>
+    <img class="community-contributions__stars" src="https://img.shields.io/github/stars/marimo-team/marimo?style=flat&amp;label=stars&amp;color=0b5563" alt="marimo GitHub stars" width="68" height="20" loading="lazy">
+    <a class="community-contributions__proof" href="https://github.com/marimo-team/marimo/pull/11101" target="_blank" rel="noopener noreferrer" data-i18n="communityMergedContribution">Merged contribution</a>
+  </li>
+  <li>
+    <a class="community-contributions__project" href="https://github.com/Fei-Away/Codex-Dream-Skin" target="_blank" rel="noopener noreferrer">Codex-Dream-Skin</a>
+    <img class="community-contributions__stars" src="https://img.shields.io/github/stars/Fei-Away/Codex-Dream-Skin?style=flat&amp;label=stars&amp;color=0b5563" alt="Codex-Dream-Skin GitHub stars" width="68" height="20" loading="lazy">
+    <a class="community-contributions__proof" href="https://github.com/Fei-Away/Codex-Dream-Skin/pull/27" target="_blank" rel="noopener noreferrer" data-i18n="communityMergedContribution">Merged contribution</a>
+  </li>
+</ul>
+</section>

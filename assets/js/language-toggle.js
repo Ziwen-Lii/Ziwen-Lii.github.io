@@ -7,6 +7,7 @@
       navPublications: "论文",
       navHonors: "荣誉",
       navExperience: "经历",
+      navCommunity: "社区贡献",
       sidebarBio: "软件工程，西南大学",
       sidebarLocation: "中国重庆",
       sidebarWebsite: "主页",
@@ -53,7 +54,10 @@
       experienceLongRangeOrderDate: "2026 年 8 月 - 至今",
       experienceLeader: "项目负责人",
       experienceAsic: "重庆中汽软件创新中心 · 基于 IsaacSim 与 ROS 的室内自主导航建模；使用 Gazebo 仿真与 Gmapping 实现 2D SLAM。",
-      experienceAsicDate: "2024 年 6 月 - 2024 年 9 月"
+      experienceAsicDate: "2024 年 6 月 - 2024 年 9 月",
+      communityTitle: "社区贡献",
+      communityIntro: "我积极为开源社区做贡献，参与以下项目：",
+      communityMergedContribution: "已合并贡献"
     }
   };
 
@@ -102,6 +106,7 @@
       toggle.setAttribute("aria-label", chinese ? "Switch to English" : "切换至中文");
       toggle.title = chinese ? "Switch to English" : "切换至中文";
       safelyStoreLanguage(language);
+      if (typeof window.updateNav === "function") window.updateNav();
     }
 
     applyLanguage(safelyReadLanguage());
