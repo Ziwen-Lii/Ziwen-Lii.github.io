@@ -18,11 +18,11 @@ redirect_from:
 <section class="profile-intro" markdown="1">
 <h1 id="about-me" data-i18n="aboutTitle">About Me</h1>
 
-<div class="profile-intro__eyebrow" data-i18n="profileEyebrow">Agent Safety · LLM Model · Generative Vision · RAG</div>
+<div class="profile-intro__eyebrow" data-i18n="profileEyebrow">LLM Agents · Agent Safety · Generative Vision</div>
 
-<p data-i18n-html="profileIntroOne">I am a <strong>third-year undergraduate student majoring in Software Engineering</strong> at the <strong>School of Computer and Information Science, Southwest University</strong>. My research interests focus on <strong>generative vision</strong> and <strong>large language models</strong>, with particular emphasis on <strong>diffusion-based image generation</strong> and <strong>panoramic/scene generation</strong>.</p>
+<p data-i18n-html="profileIntroOne">I am a <strong>fourth-year undergraduate student majoring in Software Engineering</strong> at the <strong>School of Computer and Information Science, Southwest University</strong>. My research focuses on <strong>LLM agents</strong>, <strong>agent safety</strong>, and <strong>generative vision</strong>. I am interested in how agents reason, collaborate, and interact, and how to evaluate and improve the safety and reliability of these systems. I explore generative models for visual content creation.</p>
 
-<p data-i18n-html="profileIntroTwo">I am currently supervised by <strong>Prof. Xianfeng Han</strong> (<a href="https://scholar.google.com/citations?user=4FaCTFgAAAAJ&amp;hl=en" target="_blank">Google Scholar</a>) and working as a <strong>research intern at The Chinese University of Hong Kong, Shenzhen</strong>. I am actively seeking opportunities for <strong>MPhil programs starting in Fall 2027</strong>. Please feel free to contact me directly via email.</p>
+<p data-i18n-html="profileIntroTwo">I am currently supervised by <strong>Prof. Xianfeng Han</strong> (<a href="https://scholar.google.com/citations?user=4FaCTFgAAAAJ&amp;hl=en" target="_blank">Google Scholar</a>). I am also a <strong>research intern at The Chinese University of Hong Kong, Shenzhen</strong>, working under the guidance of <strong>Dr. Xueyi Zhang</strong> (<a href="https://scholar.google.com/citations?user=-hFq7VAAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>), a <strong>Postdoctoral Research Fellow at the National University of Singapore (NUS)</strong>. I am actively seeking opportunities for <strong>MPhil programs starting in Fall 2027</strong>. Please feel free to contact me directly via email.</p>
 
 <div class="profile-intro__tags">
   <span data-i18n="tagIntern">Research Intern @ CUHK-Shenzhen</span>
@@ -31,21 +31,61 @@ redirect_from:
 </div>
 </section>
 
-<section class="home-section home-section--news" markdown="1">
-<div class="section-label" data-i18n="newsLabel">Latest</div>
-
-<h1 id="news" data-i18n="newsTitle">News</h1>
-
-<ul>
-  <li data-i18n-html="newsItem"><span class="news-date">2026.07</span> <strong>NGM-RAG: Neural Graph Matching based Retrieval-Augmented Generation</strong> (co-second author) accepted by <strong>WISA (CCF-C)</strong>.</li>
-</ul>
-</section>
-
 <h1 id="publications" data-i18n="publicationsTitle">Publications</h1>
 
 <div class="paper-box">
+  <div class="paper-box-image paper-box-image--diagram">
+    <div class="badge">Under ARR</div>
+    <a href="https://arxiv.org/abs/2610.19863">
+      <img src="images/exam.png" alt="EXAM framework: extremist agent modeling, injection strategies, and four social simulation scenarios" width="2012" height="898" loading="lazy">
+    </a>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+### [When Extremists Enter LLM Societies: Investigating Extreme Behavior in Multi-Agent Systems](https://arxiv.org/abs/2610.19863)
+
+Guo Chen, Huaijin Xie, **Ziwen Li**, Reed Li, Yu Lu, Haibo Shi, Bingbing Xu, Junjie Huang.
+
+<p data-i18n="preprintVenue">arXiv preprint · 2026</p>
+
+<div class="paper-links">
+  <a href="https://arxiv.org/abs/2610.19863">arXiv</a>
+  <a href="https://arxiv.org/pdf/2610.19863">PDF</a>
+</div>
+
+<p data-i18n="examSummary">We introduce EXAM, a configurable framework for modeling and injecting extremist agents into LLM-based societies, and study their effects across four social simulation scenarios.</p>
+
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image paper-box-image--diagram">
+    <div class="badge">Under WWW</div>
+    <a href="https://arxiv.org/abs/2608.08605">
+      <img src="images/forestbench.png" alt="ForestBench framework: task selection, collaboration graph construction, and reference-forest evaluation" width="2196" height="1118" loading="lazy">
+    </a>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+### [ForestBench: A Unified Graph Framework for Evaluating Multi-Agent Collaboration](https://arxiv.org/abs/2608.08605)
+
+Guo Chen, **Ziwen Li**, Reed Li, Yu Lu, Haibo Shi, Bingbing Xu, Junjie Huang.
+
+<p data-i18n="preprintVenue">arXiv preprint · 2026</p>
+
+<div class="paper-links">
+  <a href="https://arxiv.org/abs/2608.08605">arXiv</a>
+  <a href="https://arxiv.org/pdf/2608.08605">PDF</a>
+</div>
+
+<p data-i18n="forestbenchSummary">We introduce ForestBench, a unified collaboration-graph benchmark with 844 queries from seven public datasets. It evaluates multi-agent collaboration against verified reference forests without additional LLM inference.</p>
+
+  </div>
+</div>
+
+<div class="paper-box">
   <div class="paper-box-image">
-    <div class="badge">WISA (CCF-C)</div>
+    <div class="badge">WISA</div>
     <img src="images/ACL.png" alt="NGM-RAG paper thumbnail">
   </div>
   <div class="paper-box-text" markdown="1">
@@ -78,12 +118,6 @@ Guo Chen, **Ziwen Li**, Maolin Zheng, Qi Cao, Junjie Huang, Tao Jia.
   </div>
   <div class="manuscript-item">
     <div>
-      <strong data-i18n="manuscriptSocialSimulation">Social Simulation with Large Language Model Agents</strong>
-      <span data-i18n="reviewEmnlp">ICLR 2027 · Under Review</span>
-    </div>
-  </div>
-  <div class="manuscript-item">
-    <div>
       <strong>Agent Unlearning</strong>
       <span data-i18n="reviewAaaiOne">AAAI Phase 2</span>
     </div>
@@ -92,12 +126,6 @@ Guo Chen, **Ziwen Li**, Maolin Zheng, Qi Cao, Junjie Huang, Tao Jia.
     <div>
       <strong>OpenClaw Safety</strong>
       <span data-i18n="reviewAaaiTwo">WWW 2027 · Under Review</span>
-    </div>
-  </div>
-  <div class="manuscript-item">
-    <div>
-      <strong>Multi-Agent Bench</strong>
-      <span data-i18n="reviewKdd">KDD 2027 · Under Review</span>
     </div>
   </div>
 </div>

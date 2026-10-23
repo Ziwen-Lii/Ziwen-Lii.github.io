@@ -288,7 +288,8 @@ body {
     .paper-box-image{
         position: relative;
         flex: 0 0 260px;
-        overflow: hidden;
+        max-width: 260px;
+        overflow: visible;
         align-self: flex-start;
         border: 1px solid rgba(24, 39, 42, 0.12);
         background: #fff;
@@ -300,10 +301,17 @@ body {
             object-fit: cover;
             box-shadow: none;
         }
+
+        &--diagram img {
+            aspect-ratio: auto;
+            height: auto;
+            object-fit: contain;
+        }
     }
 
     .paper-box-text{
         flex: 1 1 0;
+        min-width: 0;
 
         p {
             color: #34484b;
@@ -334,13 +342,20 @@ h1:before, .anchor:before {
 
 .badge {
     position: absolute;
-    top: 0.65em;
-    left: 0.65em;
-    padding: 0.28em 0.62em;
-    color: white;
+    z-index: 1;
+    top: 6px;
+    left: -4px;
+    margin: 0;
+    padding: 3px 8px;
+    border: 0;
+    border-radius: 0;
+    color: #fff;
     background-color: #0b5563;
-    font-size: 0.76em;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 11px;
     font-weight: 700;
+    line-height: 1.25;
+    white-space: nowrap;
 }
 
 .paper-links {
