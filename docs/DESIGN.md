@@ -38,6 +38,12 @@ Keep native link keyboard behavior and existing focus/hover styling; add no moti
 
 ## Provenance and verification
 
+The approved bilingual introduction places the internship in Prof. Haizhou Li's
+research group, with Dr. Xueyi Zhang guiding the internship research. Prof. Li's
+IEEE Fellow title and Scholar URL (`https://scholar.google.com/citations?user=z8_x7C8AAAAJ&hl=en`)
+are listed on his personal homepage, https://www.colips.org/~eleliha/ (checked
+2026-10-25). Preserve Scholar links for all three researchers.
+
 The bilingual introduction identifies Dr. Xueyi Zhang as the user's internship
 mentor and a Postdoctoral Research Fellow at NUS. The mentoring relationship is
 user-supplied. Affiliation and title were checked against NUS Computing's people

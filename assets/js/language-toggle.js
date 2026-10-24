@@ -15,7 +15,7 @@
       aboutTitle: "关于我",
       profileEyebrow: "大语言模型智能体 · 智能体安全 · 生成式视觉",
       profileIntroOne: "我目前是<strong>西南大学计算机与信息科学学院软件工程专业大四本科生</strong>。我的研究聚焦于<strong>大语言模型智能体（LLM Agents）</strong>、<strong>智能体安全</strong>与<strong>生成式视觉</strong>。具体而言，我关注大语言模型智能体如何推理、协作与交互，以及如何评估并提升这些系统的安全性与可靠性。同时，我也探索利用生成式模型进行视觉内容创作。",
-      profileIntroTwo: "我目前在<strong>韩先峰教授</strong>指导下开展研究（<a href=\"https://scholar.google.com/citations?user=4FaCTFgAAAAJ&amp;hl=en\" target=\"_blank\">Google Scholar</a>）。同时，我在<strong>香港中文大学（深圳）担任研究实习生</strong>，接受<strong>新加坡国立大学（NUS）博士后研究员 Xueyi Zhang 博士</strong>（<a href=\"https://scholar.google.com/citations?user=-hFq7VAAAAAJ&amp;hl=en\" target=\"_blank\" rel=\"noopener noreferrer\">Google Scholar</a>）的指导。我正在积极寻找<strong>2027 年秋季入学的 MPhil 项目</strong>机会，欢迎通过邮箱与我联系。",
+      profileIntroTwo: "我目前在<strong>韩先峰教授</strong>指导下开展研究（<a href=\"https://scholar.google.com/citations?user=4FaCTFgAAAAJ&amp;hl=en\" target=\"_blank\">Google Scholar</a>）。同时，我在<strong>香港中文大学（深圳）担任研究实习生</strong>，所在团队由<strong>李海洲教授（IEEE Fellow）</strong>（<a href=\"https://scholar.google.com/citations?user=z8_x7C8AAAAJ&amp;hl=en\" target=\"_blank\" rel=\"noopener noreferrer\">Google Scholar</a>）领导。我的实习研究接受<strong>新加坡国立大学（NUS）博士后研究员 Xueyi Zhang 博士</strong>（<a href=\"https://scholar.google.com/citations?user=-hFq7VAAAAAJ&amp;hl=en\" target=\"_blank\" rel=\"noopener noreferrer\">Google Scholar</a>）的指导。我正在积极寻找<strong>2027 年秋季入学的 MPhil 项目</strong>机会，欢迎通过邮箱与我联系。",
       tagIntern: "香港中文大学（深圳）研究实习生",
       tagMphil: "2027 年秋季 MPhil",
       tagSwu: "西南大学",
